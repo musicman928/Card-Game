@@ -1,0 +1,29 @@
+public enum CardProperties {
+
+    ENERGY,
+    BASIC_ENERGY,
+    SPECIAL_ENERGY,
+
+    POKEMON,
+    BASIC_POKEMON,
+    STAGE_1,
+    STAGE_2,
+
+    RULE_BOX,
+    POKEMON_V,
+    POKEMON_VMAX,
+    POKEMON_VSTAR,
+    POKEMON_EX,
+    POKEMON_RADIANT,
+
+    ITEM,
+
+    TOOL,
+
+    SUPPORTER,
+
+    EFFECT_IMMUNE,
+    ATTACK_IMMUNE;
+
+
+}
